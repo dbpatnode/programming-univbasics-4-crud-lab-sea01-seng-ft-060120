@@ -32,12 +32,11 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  new_array = ["am","mom","dad","sister","brother"]
   new_array[0]
 end
 
 def retrieve_last_element_from_array(array)
-  new_array = ["am","mom","dad","sister","brother"]
+  array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
