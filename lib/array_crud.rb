@@ -41,5 +41,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+new_array = ["wow","mom","dad","sister","brother"]
+swapped_out_element[0] = "totaly"
 end
